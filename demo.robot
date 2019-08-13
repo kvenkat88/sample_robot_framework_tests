@@ -2,7 +2,8 @@
 Documentation    Example Suite
 Library    OperatingSystem
 Library    Collections
-Resource    resources/demo_resources.resource
+#Resource    resources/demo_resources.resource
+Resource    demo_resources.resource
 
 *** Variables ***
 ${MESSAGE}    Hello, World!
