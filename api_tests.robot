@@ -6,7 +6,7 @@ Library    Collections
 
 *** Variables ***
 ${HOST_URL}    http://localhost:5000
-${API_PATH}    /insurance_card/extract/from_image
+${API_PATH}    /extract_from_image
 ${SUBSCRIBER_NAME}    MARY SAMPLE
 
 *** Test Cases ***
